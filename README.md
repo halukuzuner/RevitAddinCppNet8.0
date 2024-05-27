@@ -1,4 +1,4 @@
-This is sample Revit 2025 addin project made in Visual Studio in c++ and .net8.0 framework.
+This is sample Revit 2025 addin project made in Visual Studio 2022 in c++ and .net8.0 framework.
 
 It uses WindowsFrom interface.
 
