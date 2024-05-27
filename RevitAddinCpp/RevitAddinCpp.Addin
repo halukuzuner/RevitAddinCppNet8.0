@@ -1,0 +1,11 @@
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>RevitAddinCpp</Name>
+        <Assembly>......\RevitAddinCpp.dll</Assembly>
+		<ClientId>91A2419C-5FCA-491A-BAA3-32A497EC07C7</ClientId>
+        <FullClassName>RevitAddinCpp.ExtApp</FullClassName>
+        <AddInId>aeb8f380-2f91-4fd4-8f55-80a7b5742010</AddInId>
+        <VendorId>ADSK</VendorId>
+        <VendorDescription>Bayra, www.autodesk.com</VendorDescription>
+    </AddIn>
+</RevitAddIns>
